@@ -1,0 +1,28 @@
+#example {
+  @include breakpoint($small) {
+    width: 100%;
+    background-color: $grey-color;
+    display: flex;
+    height: 100vh;
+    align-items:center;
+
+    h1 {
+      color: $white-color;
+      width: 100%;
+      text-align: center;
+      font-size: 3rem;
+    }
+  }
+
+  @include breakpoint($medium) {
+    background-color: $blue-color;
+  }
+
+  @include breakpoint($large) {
+    background-color: $dark-grey-color;
+  }
+
+  @include breakpoint($x-large) {
+    background-color: $magenta-color
+  }
+}

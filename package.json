@@ -1,7 +1,7 @@
 {
   "name": "semantic-boilerplate",
   "version": "1.0.0",
-  "description": "Mutli-purpose HTML5 templates using Semantic UI",
+  "description": "Multi-purpose HTML5 templates using Semantic UI",
   "main": "index.html",
   "scripts": {
     // Starts a hot-reloading dev env using Browsersync

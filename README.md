@@ -1,3 +1,5 @@
+![Dashboard template](thumbnail.jpg)
+
 # Semantic Boilerplate
 
 Multi-purpose HTML5 templates using [Semantic UI](https://semantic-ui.com/).

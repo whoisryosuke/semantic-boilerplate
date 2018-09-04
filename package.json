@@ -4,7 +4,6 @@
   "description": "Multi-purpose HTML5 templates using Semantic UI",
   "main": "index.html",
   "scripts": {
-    // Starts a hot-reloading dev env using Browsersync
     "start": "gulp"
   },
   "devDependencies": {

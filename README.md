@@ -34,6 +34,17 @@ This project is configured to use the default SUI theme. If you'd like to custom
 
 This project is also setup to use SASS if you'd like. Add any SASS to `assets/sass` then run `npm run gulp` to build any SASS to CSS.
 
+## Todo
+
+### Completed
+
+### Pending
+
+* Move all templates into `/templates/` folder and fix all local URLs (add `../`)
+* Add local version of Slick slider/carousel (JS + CSS) and replace CDN links
+* Add local versions of jQuery instead of CDN
+* DRY: Move any modular CSS in HTML files to SASS (ex: masthead, new Semantic modifier classes, etc)
+
 ## Credits
 
 * [Semantic UI](https://semantic-ui.com/)
